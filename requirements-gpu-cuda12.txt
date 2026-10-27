@@ -1,0 +1,5 @@
+# Option Windows/Linux : pilote NVIDIA compatible et CUDA Toolkit 12.x.
+# Python 3.11 ou 3.12 recommandé pour cette combinaison de versions.
+-r requirements.txt
+xgboost==2.1.4
+cupy-cuda12x==13.6.0
